@@ -1,0 +1,26 @@
+li {
+	display:none;
+	list-style-type: none;
+	text-align:center;
+}
+
+img {
+	margin:100px;
+	width:600px;
+	border:1px solid white;
+}
+
+#pictures {
+	width:900px;
+	margin:auto;
+}
+
+html {
+	background:black;
+}
+
+p {
+	text-align: center;
+	color:white;
+}
+
